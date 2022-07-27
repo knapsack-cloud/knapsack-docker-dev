@@ -1,4 +1,4 @@
-FROM knapsack/knapsack-docker:1.2.2-alpha
+FROM knapsack/knapsack-docker:2.0.0-alpha
 
 RUN apk add --no-cache python3
 RUN apk add --no-cache build-base
